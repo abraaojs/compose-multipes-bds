@@ -107,3 +107,5 @@ networks:
 #volumes:
 #    postgres:
 #    pgadmin:
+#    mongo
+#    mysql8
